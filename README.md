@@ -5,11 +5,16 @@
 </div>
 ---
 
+
+
 ### 👨‍💻 About Me :
 
 - I work as a Laboratory Assistant
 
-- How to reach me **adrianajanelle16@gmail.com**
+- <a href="https://www.linkedin.com/in/adriana-janelle-555746152/" target="_blank" rel="noopener noreferrer">
+  <img src="https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" alt="LinkedIn Icon" style="width:24px;height:24px;"> Reach on Linkedin
+</a>
+
 
 -  I’m currently learning **R Studio, SAS**
 
@@ -26,4 +31,7 @@
     <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" title="Git" **alt="Git" width="40" height="40"/>
  
   </div>
+
+
+
 
