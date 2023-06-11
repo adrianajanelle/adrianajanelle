@@ -18,20 +18,14 @@
 
 -  I’m currently learning **R Studio, SAS**
 
-
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
-       
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-      <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" title="Git" **alt="Git" width="40" height="40"/>
- 
-  </div>
-
-
-
+      </div>
+</div>
 
