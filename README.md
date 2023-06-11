@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/l2Je6eSg8ONhujzJC/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Adriana</h1>
-    <h3 align="center">I am a Laboratory Assistant with a Bachelor of Science in Biology and certifications in Data Science and Data Analytics. Passionate about Research and Clinical Data Analytic. Excited to collaborate on projects that integrate my scientific background and analytical skills!".</h3>
+    <h3 align="center">I am a Laboratory Assistant with a Bachelor of Science in Biology and certifications in Data Science and Data Analytics. Passionate about Research and Clinical Data Analytic. Excited to collaborate on projects that integrate my scientific background and analytical skills! </h3>
 </div>
 ---
 
