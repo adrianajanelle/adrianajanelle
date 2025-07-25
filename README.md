@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/l2Je6eSg8ONhujzJC/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Adriana</h1>
-    <h3 align="center">I am a Cellular Therapy Tech with a Bachelor of Science in Biology and certifications in Data Science and Data Analytics. Currently working toward my MS Data Analytics-Decision Process Engineering. Passionate about Science, Math, Data, and puppies!. Excited to collaborate on projects that integrate my background and analytical skills! </h3>
+    <h3 align="center">I am a Cellular Therapy Tech with a Bachelor of Science in Biology with certifications in Data Science and Data Analytics. Currently working toward my MS Data Analytics-Decision Process Engineering. Passionate about Science, Math, Data, and puppies!. Excited to collaborate on projects that integrate my background and analytical skills! </h3>
 </div>
 ---
 
