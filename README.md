@@ -74,4 +74,6 @@
 
 | File | Description |
 |------|-------------|
-| [BI veterinaria.pbix](BI%20veterinaria.pbix) | Veterinary clinic income dashboard with filters by month, service, doctor, and animal type. Includes KPIs, slicers, and visualization of sterilizations. |
+| [BI veterinaria.pbix](BI%20veterinaria.pbix) | Veterinary clinic income dashboard with filters by month, service, doctor, and animal type. Includes KPIs, slicers, and sterilization tracking. |
+
+<img src="Powerbi%20vet%20Dashboard.png" width="700"/>
