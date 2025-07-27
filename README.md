@@ -72,7 +72,7 @@ Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, w
 |------|-------------|
 | [cancer data.twbx](cancer%20data.twbx) | Cancer data analysis dashboard |
 
-## 📊 Power BI Dashboards
+
 ## 📊 Power BI Dashboards
 
 | File | Description |
