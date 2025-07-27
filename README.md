@@ -71,9 +71,17 @@
 | [cancer data.twbx](cancer%20data.twbx) | Cancer data analysis dashboard |
 
 ## 📊 Power BI Dashboards
+## 📊 Power BI Dashboards
 
 | File | Description |
 |------|-------------|
 | [BI veterinaria.pbix](BI%20veterinaria.pbix) | Veterinary clinic income dashboard with filters by month, service, doctor, and animal type. Includes KPIs, slicers, and sterilization tracking. |
+| [Gastos BI.pbix](Gastos%20BI.pbix) | Dashboard for tracking veterinary clinic expenses by category. Designed to provide monthly insights into spending and budgeting. |
 
-<img src="Powerbi%20vet%20Dashboard.png" width="700"/>
+### 🖼️ Dashboard Previews
+
+**Veterinary Income Dashboard**  
+<img src="Powerbi%20vet%20Dashboard.png" width="700" alt="Veterinary Power BI Dashboard Preview"/>
+
+**Expenses Dashboard**  
+<img src="gastos%20Bi.png" width="700" alt="Veterinary Expenses Dashboard Preview"/>
