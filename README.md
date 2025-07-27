@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/l2Je6eSg8ONhujzJC/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Adriana</h1>
     <h3 align="center">From lab work to data work. I blend science, analytics, and creativity.
-Certified in Data Science & Analytics, with a Bachelor’s degree in Biology and experience in regulated environments (GMP, FDA, HIPAA).
+Certified in Data Science & Analytics, with a Bachelor’s degree in Biology and experience in regulated environments.
 Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, with a passion for turning raw data into real-world value. </h3>
 </div>
 ---
