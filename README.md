@@ -88,4 +88,4 @@ Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, w
 | [Freezing Media Volume.py](Freezing%20Media%20Volume.py) | Freezing cell concentration calculator |
 | [Plasma Lyte A(mL).py](Plasma%20Lyte%20A%28mL%29.py) | Calculates freezing media amount |
 | [DMSO.py](DMSO.py) | Calculates DMSO amount |
-| [python.spec](python.spec) | Project environment spec |
+
