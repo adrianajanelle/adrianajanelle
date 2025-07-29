@@ -65,7 +65,7 @@ Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, w
 | File | Description |
 |------|-------------|
 | [BI veterinaria.pbix](BI%20veterinaria.pbix) | Veterinary clinic income dashboard with filters by month, service, doctor, and animal type. Includes KPIs, slicers, and sterilization tracking. |
-| [Gastos BI.pbix](Gastos%20BI.pbix) | Dashboard for tracking veterinary clinic expenses by category. Designed to provide monthly insights into spending and budgeting. |
+| [Gastos BI.pbix](Gastos%20BI.pbix) | Dashboard for tracking  expenses by category. Designed to provide monthly insights into spending and budgeting. |
 
 ### 🖼️ Dashboard Previews
 
