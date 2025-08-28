@@ -8,7 +8,7 @@ Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, w
 
 
 
-### 👨‍💻 About Me :
+### 👩🏻‍💻 About Me :
 
 - I work as a Cellular Therapy Technologist
 - I like Promp engineering and AI
@@ -32,7 +32,7 @@ Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, w
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
+
 </p>
 
 ## 📂 Featured Projects
