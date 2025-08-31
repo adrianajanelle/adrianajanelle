@@ -35,7 +35,7 @@ Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, w
 
 </p>
 
-## 📂 Featured Projects
+## 📂 Featured End to End Projects
 
 ### Health Claim Analyst Project  
 This project covers the complete workflow of analyzing healthcare claims data.  
