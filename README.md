@@ -37,6 +37,15 @@ Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, w
 
 ## 📂 Featured Projects
 
+### Health Claim Analyst Project  
+This project covers the complete workflow of analyzing healthcare claims data.  
+I used SQL to explore costs by diagnosis, region, and age group, and then built a Power BI dashboard to visualize cost drivers and spending patterns.  
+
+[Open Project Folder](Health%20Claim%20Analyst%20Project)
+
+### 🖼️ Dashboard Preview  
+<img src="Health%20Claim%20Analyst%20Project/Health%20claim%20dashboard%20powerbi.png" width="700" alt="Health Claims Power BI Dashboard Preview"/>
+
 ## 📊 Excel Tools
 
 | File | Description |
