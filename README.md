@@ -14,10 +14,7 @@ Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, w
 - I like Promp engineering and AI
 - I love to learn and challenge myself with new skills
 - I like graphic design and art too so creativity  is my secret weapon for dashboards!
-
-- <a href="https://www.linkedin.com/in/adriana-janelle-555746152/" target="_blank" rel="noopener noreferrer">
-  <img src="https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" alt="LinkedIn Icon" style="width:24px;height:24px;"> Reach on Linkedin
-</a>
+- Reach Out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-lugo-555746152/)
 
 
 
