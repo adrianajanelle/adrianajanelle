@@ -63,8 +63,6 @@ I used SQL to explore costs by diagnosis, region, and age group, and then built 
 | File | Description |
 |------|-------------|
 | [SQL libreria Cheat Sheet.SQL](SQL%20libreria%20Cheat%20Sheet.SQL) | Functional SQL functions cheat sheet |
-| [queries (2).sql](queries%20%282%29.sql) | Practice queries for dataset manipulation |
-| [workshop1 (1).sql](workshop1%20%281%29.sql) | SQL workshop sample queries |
 
 
 ## 📊 Power BI Dashboards
