@@ -10,10 +10,10 @@ Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, w
 
 ### 👩🏻‍💻 About Me :
 
-- I work as a Cellular Therapy Technologist
+- I work as a Business Analyst
 - I like Promp engineering and AI
 - I love to learn and challenge myself with new skills
-- I like graphic design and art too so creativity  is my secret weapon for dashboards!
+- I like graphic design and art too, creativity  is my secret weapon for dashboards!
 - Reach Out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-lugo-555746152/)
 
 
