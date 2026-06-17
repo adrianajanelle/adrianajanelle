@@ -1,9 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/l2Je6eSg8ONhujzJC/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Adriana</h1>
-    <h3 align="center">From lab work to data work. I blend science, analytics, and creativity.
-Certified in Data Science & Analytics, with a Bachelor’s degree in Biology and experience in regulated environments.
-Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, with a passion for turning raw data into real-world value. </h3>
+    <h3 align="center">I bridge the gap between science, data, and technology. With a Bachelor's degree in Biology, certifications in Data Science and Analytics, and experience in regulated healthcare environments, I bring a unique perspective to solving complex business and data challenges. Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, I am passionate about leveraging data, AI, and technology to build solutions that drive real-world impact.
+ </h3>
 </div>
 
 
@@ -25,10 +24,6 @@ Currently pursuing an M.S. in Data Analytics – Decision Process Engineering, w
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/pgAdmin-1D3557?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
 </p>
@@ -93,4 +88,17 @@ I used SQL to explore costs by diagnosis, region, and age group, and then built 
 | [Freezing Media Volume.py](Freezing%20Media%20Volume.py) | Freezing cell concentration calculator |
 | [Plasma Lyte A(mL).py](Plasma%20Lyte%20A%28mL%29.py) | Calculates freezing media amount |
 | [DMSO.py](DMSO.py) | Calculates DMSO amount |
+
+### AI & Automation Applications
+In addition to analytics projects, I enjoy building practical applications that solve real-world problems through automation, AI, and technology.
+
+**Datalingo**
+A language-learning web application focused on creating an interactive and accessible learning experience for users.
+🔗 https://datalingo-mu.vercel.app/
+
+**AI Job Agent**
+An AI-powered application designed to streamline the job search process by organizing opportunities, tracking applications, and supporting career workflows.
+🔗 https://adriana-job-agent-pwa.onrender.com/
+
+Take a look!
 
